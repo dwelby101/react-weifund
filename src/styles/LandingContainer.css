@@ -1,0 +1,19 @@
+.landingContainer {
+    /*background-color: #fbfbfa;*/
+}
+
+.landingContainer h1 {
+    color: #333333;
+    font-size: 2.5rem;
+    font-weight: 300;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.campaignDescription {
+    color: #2C3539;
+}
+
+.headerWrapper {
+    padding: 20px 0;
+    text-align: left;
+}

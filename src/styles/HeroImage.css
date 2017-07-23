@@ -1,0 +1,14 @@
+.heroWrapper {
+    width: 66%;
+    float:left;
+}
+
+.heroImage {
+    width: 100%;
+}
+
+.heroDescriptor {
+    float: left;
+    color: #0C090A;
+    margin-right: 20px;
+}

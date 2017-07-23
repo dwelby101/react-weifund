@@ -1,0 +1,25 @@
+.campaignOverview {
+    color: #2C3539;
+    width: 33%;
+    float:right;
+    padding-left: 20px;
+}
+
+.valueWrapper {
+    margin: 20px 0;
+}
+
+.plegedValue {
+    font-size: 2rem;
+    color: green;
+}
+
+.value {
+    font-size: 2rem;
+    color: #0C090A;
+}
+
+.valueDesc {
+    font-size: 1rem;
+    color: #2C3539;
+}

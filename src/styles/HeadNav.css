@@ -1,0 +1,15 @@
+.headNav {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    -moz-box-shadow: 0 0 5px #888;
+    -webkit-box-shadow: 0 0 5px#888;
+    box-shadow: 0 0 5px #888;
+    z-index: 1000;
+}

@@ -1,0 +1,16 @@
+.SidebarComponent{
+    width: 100%;
+    background-color: #f8f9fd;
+    border: 1px solid #e0e4fb;
+    border-radius: 2px;
+    padding: 10px 10px;
+    margin-bottom:20px;
+    color: #2C3539;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.SidebarComponent:hover{
+    opacity: 0.7;
+    border: 1px solid green;
+}
