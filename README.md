@@ -15,3 +15,9 @@ This is an example of some basic react development based around the task set for
 I do indeed recognise there is not much 'creativity' in what I have created as an example however given more time to develop the code base and component interaction I would then have moved on to refining the design and playing with colours, fonts, loading notification, interaction animation and create a more polished and inviting interface.
 
 
+![screen shot 2017-07-23 at 23 18 56](https://user-images.githubusercontent.com/2720624/28502165-5e50e920-6ffd-11e7-9a50-65c433c7cc9d.png)
+![screen shot 2017-07-23 at 23 19 05](https://user-images.githubusercontent.com/2720624/28502166-5e51ac34-6ffd-11e7-9cd2-5289fe9d7886.png)
+
+NOTE:
+
+With more time I would have developed this code into a fully responsive template so that all of the components would behave as expected whenever a user would change between desktop and mobile screensizes.
